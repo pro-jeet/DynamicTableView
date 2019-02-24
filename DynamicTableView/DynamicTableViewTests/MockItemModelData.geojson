@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "emailId": "narendra@modi.com",
+            "lastName": "Modi",
+            "imageUrl": "https://pbs.twimg.com/profile_images/718314968102367232/ypY1GPCQ_400x400.jpg",
+            "firstName": "Narendra"
+        },
+        {
+            "emailId": "barack@obama.com",
+            "lastName": "Obama",
+            "imageUrl": "https://pbs.twimg.com/profile_images/451007105391022080/iu1f7brY.png",
+            "firstName": "Barack"
+        },
+        {
+            "emailId": "angela@merkel.com",
+            "lastName": "Merkel",
+            "imageUrl": "https://pbs.twimg.com/profile_images/1047752972/2010-01-14-angela-merkel_property_poster.jpg",
+            "firstName": "Angela"
+        },
+        {
+            "emailId": "sachin@tendulkar.com",
+            "lastName": "Tendulkar",
+            "imageUrl": "https://pbs.twimg.com/profile_images/2504398687/344204969.jpg",
+            "firstName": "Sachin"
+        },
+        {
+            "emailId": "virat@kohli.com",
+            "lastName": "Kohli",
+            "imageUrl": "https://pbs.twimg.com/profile_images/789817267567472640/BlpcUEvx_400x400.jpg",
+            "firstName": "Virat"
+        },
+        {
+            "emailId": "sunil@chhetri.com",
+            "lastName": "Chhetri",
+            "imageUrl": "https://pbs.twimg.com/profile_images/827562109563260930/sD5wLOw1_400x400.jpg",
+            "firstName": "Sunil"
+        },
+        {
+            "emailId": "salman@khan.com",
+            "lastName": "Khan",
+            "imageUrl": "https://pbs.twimg.com/profile_images/838562307/IMG00882-20100416-0034.jpg",
+            "firstName": "Salman"
+        },
+        {
+            "emailId": "amitabh@bachchan.com",
+            "lastName": "Bachchan",
+            "imageUrl": "https://pbs.twimg.com/profile_images/768780297437450240/FJBOm5n8_400x400.jpg",
+            "firstName": "Amitabh"
+        },
+        {
+            "emailId": "priyanka@chopra.com",
+            "lastName": "Chopra",
+            "imageUrl": "https://pbs.twimg.com/profile_images/881236265391325184/WffFVMgb_400x400.jpg",
+            "firstName": "Priyanka"
+        },
+        {
+            "emailId": "mesut@ozil.com",
+            "lastName": "Özil",
+            "imageUrl": "https://pbs.twimg.com/profile_images/928189325568827392/3eFJIePn_400x400.jpg",
+            "firstName": "Mesut"
+        },
+        {
+            "emailId": "pierre@aubameyang.com",
+            "lastName": "Pierre",
+            "imageUrl": "https://pbs.twimg.com/profile_images/958744181748445186/OUX1E4gK_400x400.jpg",
+            "firstName": "Yo"
+        },
+        {
+            "emailId": "cristiano@ronaldo.com",
+            "lastName": "Ronaldo",
+            "imageUrl": "https://pbs.twimg.com/profile_images/960787280431648768/lSc6wqfD_400x400.jpg",
+            "firstName": "Cristiano"
+        },
+        {
+            "emailId": "taylor@swift.com",
+            "lastName": "Swift",
+            "imageUrl": "https://pbs.twimg.com/profile_images/720767103712645122/6XEBAXLj_400x400.jpg",
+            "firstName": "Taylor"
+        },
+        {
+            "emailId": "ozzy@osbourne.com",
+            "lastName": "Osbourne",
+            "imageUrl": "https://pbs.twimg.com/profile_images/961022056631447552/Ywh6u5UM_400x400.jpg",
+            "firstName": "Ozzy"
+        },
+        {
+            "emailId": "chris@martin.com",
+            "lastName": "Martin",
+            "imageUrl": "https://pbs.twimg.com/profile_images/876385108961497088/eQL7OlX3_400x400.jpg",
+            "firstName": "Chris"
+        },
+        {
+            "emailId": "tim@cook.com",
+            "lastName": "Cook",
+            "imageUrl": "https://pbs.twimg.com/profile_images/378800000483764274/ebce94fb34c055f3dc238627a576d251.jpeg",
+            "firstName": "Tim"
+        },
+        {
+            "emailId": "phil@schiller.com",
+            "lastName": "Schiller",
+            "imageUrl": "https://pbs.twimg.com/profile_images/755268949017698304/TDhoXK3l_400x400.jpeg",
+            "firstName": "Phil"
+        },
+        {
+            "emailId": "satya@nadella.com",
+            "lastName": "Nadella",
+            "imageUrl": "https://pbs.twimg.com/profile_images/543839436761358336/iRi_WbYY.jpeg",
+            "firstName": "Satya"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (4.8.0)
+  - NVActivityIndicatorView (4.6.1):
+    - NVActivityIndicatorView/Presenter (= 4.6.1)
+  - NVActivityIndicatorView/Presenter (4.6.1)
+  - SDWebImage (4.4.5):
+    - SDWebImage/Core (= 4.4.5)
+  - SDWebImage/Core (4.4.5)
+  - SwiftKeychainWrapper (3.2.0)
+
+DEPENDENCIES:
+  - Alamofire (= 4.8.0)
+  - NVActivityIndicatorView
+  - SDWebImage (~> 4.0)
+  - SwiftKeychainWrapper
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - NVActivityIndicatorView
+    - SDWebImage
+    - SwiftKeychainWrapper
+
+SPEC CHECKSUMS:
+  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  NVActivityIndicatorView: 4ca19fccc84595a78957336a086d00a49be6ce61
+  SDWebImage: ecc03494e973b93b80213649d32175f8d2d17d4d
+  SwiftKeychainWrapper: 82c4c02cdc36f9a24f7edfcaab3e336401caa1a1
+
+PODFILE CHECKSUM: 1509723284f03807b47d6f755f4155b157372f05
+
+COCOAPODS: 1.6.0
